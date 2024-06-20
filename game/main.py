@@ -58,8 +58,6 @@ class Game:
             self.render()
             clock.tick(60)
 
-#my first commit with github
-
 if __name__ == "__main__": 
     game = Game()
     game.update()
